@@ -1,0 +1,17 @@
+{
+  "name": "kafka-basics",
+  "version": "1.0.0",
+  "description": "A basic learning of kafka",
+  "main": "i./src/index.js",
+  "author": "vinit parekh",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "create-topic": "node ./src/topic.js",
+    "proudcer": "node ./src/producer.js",
+    "consumer": "node ./src/consumer.js"
+  },
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
