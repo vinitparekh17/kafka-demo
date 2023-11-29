@@ -2,7 +2,7 @@
   "name": "kafka-basics",
   "version": "1.0.0",
   "description": "A basic learning of kafka",
-  "main": "i./src/index.js",
+  "main": "index.js",
   "author": "vinit parekh",
   "license": "MIT",
   "scripts": {
