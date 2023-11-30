@@ -30,6 +30,9 @@ ___
 ## Getting Started
 
 Let's take a quick overview of kafka with nodejs and docker. which I found very easy to get started with.
-The entire code is availible in [this](./src/) folder. 
+The source code in 2 different languages is as follows:
+
+1. [Nodejs](./nodejs/)
+2. [Golang](./golang/)
 
 > Note: I am using docker to run kafka and zookeeper. If you don't have docker installed, you can install it from [here](https://docs.docker.com/get-docker/).
