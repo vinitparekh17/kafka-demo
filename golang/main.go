@@ -20,9 +20,9 @@ func main() {
     To get started, run the following commands:
     $ docker-compose up -d
 	$ go run main.go
-	$ go run producer.go
-	$ go run consumer.go
-	$ go run topic.go
+	$ go run ./Producer/producer.go
+	$ go run ./Consumer/consumer.go
+	$ go run ./Topic/topic.go
     
     To stop the demo, run the following command:
     $ docker-compose down
